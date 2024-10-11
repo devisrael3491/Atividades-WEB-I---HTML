@@ -9,5 +9,3 @@ Lista de atividades:
 
 - Atividade 1
 - Atividade 2
-
-[Gooogle](www.google.com.br)
