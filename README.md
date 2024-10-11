@@ -1,9 +1,9 @@
 # Atividades-WEB-I---HTML
 Repositório das atividades da disciplina de WEB I (HTML)
 
-#Heading1
-##Heading2
-###Heading3
+# Heading1
+## Heading2
+### Heading3
 
 Lista de atividades:
 
