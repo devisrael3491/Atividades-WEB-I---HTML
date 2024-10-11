@@ -1,5 +1,5 @@
 # Atividades-WEB-I---HTML
-Repositório das atividades da disciplina de WEB I (HTML)
+Repositório das atividades (HTML) da disciplina de Web I
 
 # Heading1
 ## Heading2
